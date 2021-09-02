@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro重制版",
-    "description": "京东脚本独立脚本仓库合集",
+    "description": "京东脚本独立脚本仓库合集，hb表示需要配置环境变量",
     "task": [ 
       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_opencard17.js, tag=（OX暂不支持）秋新资联合开卡, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_opencard20.js, tag=（hb）中秋酒水, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
