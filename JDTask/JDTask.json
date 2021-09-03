@@ -2,6 +2,7 @@
     "name": "公众号少年歌行pro重制版",
     "description": "京东脚本独立脚本仓库合集，hb表示需要配置环境变量",
     "task": [ 
+      "0 9 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_cookie_search.js, tag=ck备注+搜索(需boxjs), img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_opencard17.js, tag=（OX暂不支持）秋新资联合开卡, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_opencard20.js, tag=（hb）中秋酒水, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "18 0,1,9,14,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker2/main/gua_wealth_island_help.js, tag=（hb）财富大陆互助, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
